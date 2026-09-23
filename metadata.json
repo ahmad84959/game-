@@ -1,0 +1,6 @@
+{
+  "name": "Sketch Brawler",
+  "description": "A 2D hand-drawn sketch fighting game featuring smooth combat, Stage 1 The Sketch Valley, Stage 2 The Dark Arena, and an epic Boss battle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
